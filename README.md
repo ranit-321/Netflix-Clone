@@ -1,2 +1,4 @@
-# Netflix-Clone
-Build a basic netflix frontend part using html css and js.
+# Netflix
+
+Designed a Netflix home page using HTML, CSS and JavaScript.
+
